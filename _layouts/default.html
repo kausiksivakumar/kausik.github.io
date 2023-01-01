@@ -3,11 +3,15 @@
 
   <!-- Head -->
   <head>
-  {%- if page.redirect -%}
-    <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
-  {%- endif -%}
-  {% include head.html %}
-  </head>
+    {%- if page.redirect -%}
+      <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
+    {%- endif -%}
+    {%- if page.redirect_to -%}
+      <!-- <object data="{{ page.redirect_to }}" width="1000" height="1000" type='application/pdf'/> -->
+      <meta http-equiv="refresh" content="0; url={{ page.redirect_to }}/" />
+    {%- endif -%}
+    {% include head.html %}
+    </head>
 
   <!-- Body -->
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
