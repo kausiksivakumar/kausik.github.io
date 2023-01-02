@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: redirected
 permalink: /cv/
 # permalink: ../assets/pdf/Kausik_Resume.pdf
 title: CV
