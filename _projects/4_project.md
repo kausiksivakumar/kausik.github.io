@@ -6,7 +6,7 @@ img: assets/img/F1tenth/thumbnail.png
 # redirect: https://unsplash.com
 importance: 4
 category: work
-github: https://github.com/kausiksivakumar/f1Tenth_project_final
+github: https://github.com/kausiksivakumar/F1Tenth-Trajectory-Generation
 ---
 
 This project is built on an autonomous racecar that is one-tenth the scale of an [F1 vehicle](https://f1tenth.org/). The car utilizes a Hokuyo planar LIDAR sensor to obtain information about the environment. 
