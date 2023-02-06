@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Building Dynamics Models Through Contact Discontinuitites
+title: Building dynamics models through contact discontinuitites
 description: ICRA 2022 conference demo with DAIR lab UPenn
 img: assets/img/ICRA2022/dair_franka.png
 importance: 4
