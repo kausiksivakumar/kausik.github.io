@@ -6,7 +6,7 @@ img: assets/img/ICRA2022/dair_franka.png
 importance: 4
 category: work
 ---
-This demo demonstrates learning object mesh and fricition parameters of a cube by observing its contact rich interactions with the flat table. I worked with Penn PhD student [Mathew Halm](https://matthalm.net/), Penn PhD student [Bibit Bianchini](http://www.bianchini-love.com/bibit) and Penn facult [Michael Posa](https://www.grasp.upenn.edu/people/michael-posa/). 
+This demo demonstrates learning object mesh and fricition parameters of a cube by observing its contact rich interactions with the flat table. I worked with Penn PhD student [Mathew Halm](https://matthalm.net/), Penn PhD student [Bibit Bianchini](http://www.bianchini-love.com/bibit) and Penn faculty [Michael Posa](https://www.grasp.upenn.edu/people/michael-posa/). 
 <div class="row">
     <iframe width="800" height="400" src="https://www.youtube.com/embed/Ko9i11to9_A" title="ICRA demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
