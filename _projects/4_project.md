@@ -42,4 +42,18 @@ The project proposes a practical method for map based autonomous racing that avo
 </div>
 The algorithm generates dynamically feasible (imagined) trajectories (blue) and chooses one that makes maximal progress (yellow). When the ego vehicle encounters an obstacle (orange), it chooses the best possible alternative (yellow).
 
-The code is provided [here](https://github.com/kausiksivakumar/f1Tenth_project_final)
+<div class="row">
+    <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/6bbuutIjzeA" title="Adaptive planning in simulation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<div class="caption">
+    Video demonstrating obstacle avoidance in simulation. Blue - Ego vehicle, Orange - Opponent vehicle 
+</div>
+
+<div class="row">
+    <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/zX_UfEmb_Jg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<div class="caption">
+    Video demonstrating obstacle avoidance in the actual vehicle 
+</div>
+
+The code is provided [here](https://github.com/kausiksivakumar/Adaptive-Planning-with-Model-Predictive-Control)
