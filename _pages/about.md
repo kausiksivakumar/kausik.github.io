@@ -17,7 +17,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am a second-year master's student in Robotics at the [University of Pennsylvania](https://www.grasp.upenn.edu/). I am part of the [PAL group](https://www.seas.upenn.edu/~dineshj/pal/index.html) advised by [Prof. Dinesh Jayaraman](https://www.seas.upenn.edu/~dineshj/) and [Prof. Osbert Bastani](https://obastani.github.io/).
 
-I am broadly interested in reinforcement learning applied to robotics settings. I aim to develop robust learning methods for robotic tasks that generalize to complex unstructured, and novel environments. 
+<!-- I am broadly interested in reinforcement learning applied to robotics settings. I aim to develop robust learning methods for robotic tasks that generalize to complex unstructured, and novel environments.  -->
+
+I am broadly interested in the regime of teaching robots how to act with few demonstrations and with limited feedback. To this end, I am currently working on Offline Reinforcement learning research that tries to learn super-human robot manipulation policy from sub-optimal human demonstrations.    
 
 I completed my bachelor's degree in Mechanical Engineering at [Amrita University](https://www.amrita.edu/), where I worked on automotive engineering projects.
 
