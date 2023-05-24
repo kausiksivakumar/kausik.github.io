@@ -7,15 +7,15 @@
 
 @article{
  kausik2023tom,
- author = {Yecheng Jason Ma* and Kausik Sivakumar* and Jason Yen and Osbert Bastani and Dinesh Jayaraman},
+ author = {Yecheng Jason Ma* and Kausik Sivakumar* and Jason Yan and Osbert Bastani and Dinesh Jayaraman},
  journal = {L4DC},
  title = {Learning Policy-Aware Models for Model-Based Reinforcement Learning via Transition Occupancy Matching},
  abstract={Standard model-based reinforcement learning (MBRL) approaches fit a transition model of the environment to all past experience, but this wastes model capacity on data that is irrelevant for policy improvement. We instead propose a new ``transition occupancy matching'' (TOM) objective for MBRL model learning: a good environment model has the property that the current policy experiences the same distribution of transitions, whether deployed in the real environment or inside the model. We derive TOM directly from a novel lower bound on the standard reinforcement learning objective. To optimize TOM, we show how to reduce it to a form of importance weighted maximum-likelihood estimation, where the automatically computed importance weights identify policy-relevant past experiences from a replay buffer, enabling stable optimization. TOM thus offers a plug-and-play model learning sub-routine that is compatible with any backbone MBRL algorithm. On various Mujoco continuous robotic control tasks, we show that TOM successfully focuses model learning on policy-relevant experience and drives policies faster to higher task rewards than alternative model learning approaches},
  year = {2023},
  selected={true},
  abbr={L4DC},
- pdf={https://www.seas.upenn.edu/~jasonyma/materials/L4DC-2023.pdf},
- openreview={https://openreview.net/pdf?id=DCqOe3-yGT}
+ pdf={https://arxiv.org/pdf/2305.12663.pdf},
+ arxiv={2305.12663}
 }
 
 
@@ -29,5 +29,5 @@ booktitle={Deep Reinforcement Learning Workshop NeurIPS 2022},
 year={2022},
 abbr={NeurIPS},
 url={https://openreview.net/forum?id=UW-VQXWuuWB},
-selected={true}
+selected={false}
 }
