@@ -11,6 +11,9 @@
       <meta http-equiv="refresh" content="0; url={{ page.redirect_to }}/" />
     {%- endif -%}
     {% include head.html %}
+    {% if jekyll.environment == 'production' %}
+      {% include analytics.html %}
+    {% endif %}
     </head>
 
   <!-- Body -->
