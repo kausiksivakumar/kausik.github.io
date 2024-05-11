@@ -15,11 +15,15 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am currently a Robotics Intern at [Tutor Intelligence](https://www.tutorintelligence.com/) where make robot arms use color and depth sensory data to manipulate everyday objects.
+I am currently a Robotics Engineer at [Tutor Intelligence](https://www.tutorintelligence.com/). Here, I have broadly worked on computer vision, and motion planning problems for robotic arms. These are few of my projects here that I am proud of 
 
-I am broadly interested in Manipulation - in a world where robots are no longer confined to controlled environments but are envisioned as seamless companions in our daily lives, the pursuit of enabling them to comprehend and manipulate objects akin to human proficiency becomes paramount. My goal is to understand and attempt to unravel how robots could practically acomplish this behavior. 
+  1. Built the company's primary visual servoing method, that brought our grasping accuracy to under `3mm` under real-world kinematic uncertainitites
+  2. Improved our motion planning stack through employing [TOPPRA](https://arxiv.org/pdf/1707.07239) and building an online method to blend subsequent motion plans
+  3. Fine tuned deep learning based segmentation method - [Segment Anything Model](https://segment-anything.com/) to improve scene understanding and automate robot arm picks
 
-I was a Robotics student at the [University of Pennsylvania (UPenn)](https://www.grasp.upenn.edu/). I was part of the [PAL group](https://www.seas.upenn.edu/~dineshj/pal/index.html) advised by [Prof. Dinesh Jayaraman](https://www.seas.upenn.edu/~dineshj/) and [Prof. Osbert Bastani](https://obastani.github.io/) where I ventured into the space of robot learning. I received the Outstanding Research Award from UPenn for my contributions toward AI.
+<!-- I am broadly interested in Manipulation - in a world where robots are no longer confined to controlled environments but are envisioned as seamless companions in our daily lives, the pursuit of enabling them to comprehend and manipulate objects akin to human proficiency becomes paramount. My goal is to understand and attempt to unravel how robots could practically acomplish this behavior.  -->
+
+Before this, I was a Robotics student at the [University of Pennsylvania (UPenn)](https://www.grasp.upenn.edu/). I was part of the [PAL group](https://www.seas.upenn.edu/~dineshj/pal/index.html) advised by [Prof. Dinesh Jayaraman](https://www.seas.upenn.edu/~dineshj/) and [Prof. Osbert Bastani](https://obastani.github.io/) where I ventured into the space of robot learning. I received the Outstanding Research Award from UPenn for my contributions toward AI.
 
 **I am actively seeking opportunities in the fields of manipulation, computer vision, and robot learning, with a strong desire to contribute and drive innovation. Please drop me an email if you are interested in my profile**
 
